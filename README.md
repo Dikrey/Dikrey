@@ -1,11 +1,16 @@
-<script src ="your file path/typelighter.min.js"></script>
-<script src ="https://cdn.jsdelivr.net/npm/typelighterjs/typelighter.min.js"></script>
-
-<main>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script src ="your file path/typelighter.min.js"></script>
+  <script src ="https://cdn.jsdelivr.net/npm/typelighterjs/typelighter.min.js"></script>
+</head>
+<body
+  <p><span class="typeWriter" data-checkVisible="true"  data-speed="2" data-text='["foo", "example"]'></span></p>
+</body>
+</html>
 ![Header](github-header-image.png)
 
 <p><span class="typeWriter" data-text='["MUHAMMAD RAIHAN"]'></span></p>
-</main>
 
 - 👋 Hi, I’m @Dikrey
 - 👀 I’m Programmer
@@ -56,3 +61,6 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
+
+
+
