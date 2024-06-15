@@ -1,6 +1,10 @@
+<script src ="your file path/typelighter.min.js"></script>
+<script src ="https://cdn.jsdelivr.net/npm/typelighterjs/typelighter.min.js"></script>
+
+
 ![Header](github-header-image.png)
 
-
+<p><span class="typeWriter" data-text='["MUHAMMAD RAIHAN"]'></span></p>
 
 
 - 👋 Hi, I’m @Dikrey
