@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <script src ="your file path/typelighter.min.js"></script>
-  <script src ="https://cdn.jsdelivr.net/npm/typelighterjs/typelighter.min.js"></script>
-</head>
-<body
-  <p><span class="typeWriter" data-checkVisible="true"  data-speed="2" data-text='["foo", "example"]'></span></p>
-</body>
-</html>
-![Header](github-header-image.png)
 
-<p><span class="typeWriter" data-text='["MUHAMMAD RAIHAN"]'></span></p>
+![Header](github-header-image.png)
 
 - 👋 Hi, I’m @Dikrey
 - 👀 I’m Programmer
