@@ -3,12 +3,11 @@
 
 - 👋 Hi, I’m @Dikrey
 - 👀 I’m Programmer
-- 🌱 I’m currently learning MTsN 1 MEDAN
+- 🌱 I’m currently learning SMKN 1 PST
 - 💞️ My dream is to become a Fullstack developer
 - 📫 I’m looking to collaborate on with anyone
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 
 <h1>Programming languages:</h1>
 <hr>
