@@ -1,7 +1,7 @@
 
 ![Header](github-header-image.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=35&pause=1000&color=F70000&center=true&vCenter=true&width=600&height=60&lines=I+am+Muhammad+Raihan;Front-End+%26+Back-End+Developer;Specializing+Front-End+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=35&pause=1000&color=F70000&center=true&vCenter=true&width=600&height=60&lines=Hey!++I+am+Muhammad+Raihan;Front-End+%26+Back-End+Developer;Specializing+Front-End+Developer.)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @Dikrey
 - 👀 I’m Programmer
