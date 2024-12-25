@@ -1,6 +1,8 @@
 
 ![Header](github-header-image.png)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hai%2C+Welcome+to+My+Github;I+am+Muhammad+Raihan;Front-end+wizard%2C+dabbling+in+the+back-end.)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @Dikrey
 - 👀 I’m Programmer
 - 🌱 I’m currently learning SMKN 1 PST
