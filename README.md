@@ -20,10 +20,9 @@
 
 - 🌟 My skills: Proficient in Frontend Development with a touch of creativity, and skilled in Backend Development to build strong and reliable systems.
 
--😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him
 
--⚡ Fun fact: I can spend hours coding but still lose track of time when playing my favorite games!
-
+- ⚡ Fun fact: I can spend hours coding but still lose track of time when playing my favorite games!
 
 > 💬 If you have big ideas or exciting projects, let’s discuss and bring them to life together!
 
