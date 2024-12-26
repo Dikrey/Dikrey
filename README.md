@@ -6,23 +6,23 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=35&pause=1000&color=F70000&center=true&vCenter=true&width=600&height=60&lines=I+am+Muhammad+Raihan;Front-End+%26+Back-End+Developer;Specializing+Front-End+Developer.)](https://git.io/typing-svg)
 
 
-👋 Hi, I’m @Dikrey
+- 👋 Hi, I’m @Dikrey/Muhammad Raihan
 
-👨‍💻 A passionate Programmer with endless enthusiasm for technology.
+- 👨‍💻 A passionate Programmer with endless enthusiasm for technology.
 
-🌱 Currently learning at SMKN 1 PST while continuously exploring the world of coding.
+- 🌱 Currently learning at SMKN 1 PST while continuously exploring the world of coding.
 
-🚀 My vision: To become a Fullstack Developer capable of creating digital solutions with global impact.
+- 🚀 My vision: To become a Fullstack Developer capable of creating digital solutions with global impact.
 
-💡 My dream is not just to be a developer, but also an innovator who turns challenges into opportunities.
+- 💡 My dream is not just to be a developer, but also an innovator who turns challenges into opportunities.
 
-🤝 I’m open to collaborating with anyone eager to create innovative projects and make a positive impact.
+- 🤝 I’m open to collaborating with anyone eager to create innovative projects and make a positive impact.
 
-🌟 My skills: Proficient in Frontend Development with a touch of creativity, and skilled in Backend Development to build strong and reliable systems.
+- 🌟 My skills: Proficient in Frontend Development with a touch of creativity, and skilled in Backend Development to build strong and reliable systems.
 
-😄 Pronouns: He/Him
+-😄 Pronouns: He/Him
 
-⚡ Fun fact: I can spend hours coding but still lose track of time when playing my favorite games!
+-⚡ Fun fact: I can spend hours coding but still lose track of time when playing my favorite games!
 
 
 > 💬 If you have big ideas or exciting projects, let’s discuss and bring them to life together!
