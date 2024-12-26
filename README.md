@@ -89,4 +89,4 @@
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
-![Animasi ular]( https://raw.githubusercontent.com/{Dikrey}/{Dikrey}/output/github-contribution-grid-snake-dark.svg )
+![Animasi ular]( https://raw.githubusercontent.com/Dikrey/Dikrey/output/github-contribution-grid-snake-dark.svg )
