@@ -36,7 +36,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Dikrey&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # Overflow Stats
-[![My Stack Overflow Stats](https://so-stats.vercel.app/api?user=28945628/)](https://github.com/kurt-liao/so-stats)
+[![My Stack Overflow Stats](https://so-stats.vercel.app/api?user=28945628)](https://github.com/kurt-liao/so-stats)
 
 ## My Rewards
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Dikrey&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
