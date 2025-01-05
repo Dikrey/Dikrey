@@ -32,6 +32,12 @@
 - ⚡ Fun fact: I can spend hours coding but still lose track of time when playing my favorite games!
 
 > 💬 If you have big ideas or exciting projects, let’s discuss and bring them to life together!
+---
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
 
 
 # 📊 GitHub Stats:
