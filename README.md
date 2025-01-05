@@ -7,7 +7,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
-  <img src="https://komarev.com/ghpvc/?Dikrey=your-github-Dikrey&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Dikrey&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
