@@ -5,7 +5,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=35&pause=1000&color=F70000&center=true&vCenter=true&width=600&height=60&lines=I+am+Muhammad+Raihan;Front-End+%26+Back-End+Developer;Specializing+Front-End+Developer.)](https://git.io/typing-svg)
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+</div>
 - Hi👋, I’m @Dikrey/Muhammad Raihan
 
 - 👨‍💻 A passionate Programmer with endless enthusiasm for technology.
