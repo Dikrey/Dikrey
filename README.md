@@ -39,7 +39,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
----
+
 ![](https://github-readme-stats.vercel.app/api?username=Dikrey&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dikrey&theme=dark&hide_border=false)<br/>
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Dikrey&theme=github"><br/>
