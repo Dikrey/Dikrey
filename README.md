@@ -35,6 +35,45 @@
 > 💬 If you have big ideas or exciting projects, let’s discuss and bring them to life together!
 
 
+```go
+package main
+
+import "fmt"
+
+type Biodata struct {
+    Nama, Alamat, Email, Telepon string
+    Umur                         int
+    Pendidikan, Pengalaman       []string
+}
+
+func main() {
+    bio := Biodata{
+        Nama:    "Muhammad Raihan",
+        Umur:    16,
+        Alamat:  "Jalan Indonesia",
+        Email:   "secret@gmail.com",
+        Telepon: " - ",
+        Pendidikan: []string{
+            "MTsN 1 MDN",
+            "SMKN 1 PST",
+        },
+        Pengalaman: []string{
+            "Programmer",
+            "Student",
+        },
+    }
+
+    fmt.Println("Biodata:")
+    fmt.Println("Nama:", bio.Nama)
+    fmt.Println("Umur:", bio.Umur)
+    fmt.Println("Alamat:", bio.Alamat)
+    fmt.Println("Email:", bio.Email)
+    fmt.Println("Telepon:", bio.Telepon)
+    fmt.Println("Pendidikan:", bio.Pendidikan)
+    fmt.Println("Pengalaman:", bio.Pengalaman)
+}
+```
+
 
 # 📊 GitHub Stats:
 
