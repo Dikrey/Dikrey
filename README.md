@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Dikrey&style=flat-square&color=blue" alt=""/>
 </div>
 
-[![Facebokm Badge](https://img.shields.io/badge/-facebook.Muhammad Raihan-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=/)](https://www.facebook.com/profile.php?id=100049899516284&locale=id_ID) [![Instagram Badge](https://img.shields.io/badge/-instagram.arimarshello_reall-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/arimarshello_reall.qwerty_/)](https://www.instagram.com/arimarshello_reall.qwerty_/) 
+[![Facebokm Badge](https://img.shields.io/badge/-facebook.Muhammad_Raihan-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=/)](https://www.facebook.com/profile.php?id=100049899516284&locale=id_ID) [![Instagram Badge](https://img.shields.io/badge/-instagram.arimarshello_reall-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/arimarshello_reall.qwerty_/)](https://www.instagram.com/arimarshello_reall.qwerty_/) 
 
 ---
 
