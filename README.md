@@ -82,14 +82,12 @@ func main() {
 <div align="center">
 
 # 📊 GitHub Stats:
+<img src="https://github-stats-alpha.vercel.app/api?username=Dikrey&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
 
 ![](https://github-readme-stats.vercel.app/api?username=Dikrey&theme=radical&show_icons=true&hide_border=false&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dikrey&theme=radical&hide_border=false)  
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Dikrey&theme=redical)  
 
-
-  <img src="https://github-stats-alpha.vercel.app/api?username=Dikrey&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
-  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dikrey&theme=radical)
   
   <p align="center">
