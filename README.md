@@ -9,7 +9,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/><br>
+   <img alt="Coding" width="350" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   <img src="https://komarev.com/ghpvc/?username=Dikrey&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -21,7 +21,8 @@
 
 - Hi👋, I’m @Dikrey/Muhammad Raihan
 
- <img align="center" alt="Coding" width="350" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+ <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/><br>
 
 - 👨‍💻 A passionate Programmer with endless enthusiasm for technology.
 - 🌱 Currently learning at SMKN 1 PST while continuously exploring the world of coding.
