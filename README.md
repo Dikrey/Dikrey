@@ -18,6 +18,7 @@
 [![Facebokm Badge](https://img.shields.io/badge/-facebook.Muhammad_Raihan-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=/)](https://www.facebook.com/profile.php?id=100049899516284&locale=id_ID) [![Instagram Badge](https://img.shields.io/badge/-instagram.Muhammad_Raihan0307-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/muhammad_raihan0307/)](https://www.instagram.com/muhammad_raihan0307/) 
 <br>
   <img width="150%" src="https://github-widgetbox.vercel.app/api/profile?username=Dikrey&data=followers,repositories,stars,commits&theme=nautical"/>
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Dikrey&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 </div>
 
 ---
