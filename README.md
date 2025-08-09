@@ -90,7 +90,7 @@ func main() {
 
   <img src="https://github-stats-alpha.vercel.app/api?username=Dikrey&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dikrey&theme=tokyonight" width="100%">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dikrey&theme=radical)
   
   <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dikrey&theme=tokyonight" width="45%">
