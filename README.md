@@ -1,9 +1,10 @@
-  
+ <div align="center"> 
 ![Header](github-header-image.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&size=40&letterSpacing=1px&duration=7000&pause=5000&color=F70000&background=FFFFFF00&center=true&vCenter=true&random=true&width=600&height=60&lines=Hai%2C+Welcome+to+My+Github)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=35&pause=1000&color=F70000&center=true&vCenter=true&width=600&height=60&lines=I+am+Muhammad+Raihan;Front-End+%26+Back-End+Developer;Specializing+Front-End+Developer.)](https://git.io/typing-svg)
+</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/><br>
