@@ -21,7 +21,7 @@
 
 - Hi👋, I’m @Dikrey/Muhammad Raihan
 
- <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+ <img align="right" alt="Coding" width="500" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 👨‍💻 A passionate Programmer with endless enthusiasm for technology.
 - 🌱 Currently learning at SMKN 1 PST while continuously exploring the world of coding.
