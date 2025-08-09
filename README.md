@@ -116,7 +116,7 @@ func main() {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,kotlin,dart,bash,r,xml,json,yaml,postgresql,mysql,powershell,,markdown)](https://github.com/Dikrey/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,kotlin,dart,bash,r,xml,json,yaml,postgresql,mysql,powershell,markdown)](https://github.com/Dikrey/github-widgetbox)
 
 ---
 
