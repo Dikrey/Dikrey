@@ -92,7 +92,7 @@ func main() {
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dikrey&theme=radical)
   
-  <div align="center">
+  <div align="center" width="450">
    
    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dikrey&theme=radical)
    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dikrey&theme=radical)
