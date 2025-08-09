@@ -68,7 +68,7 @@ func main() {
     fmt.Println("Pengalaman:", bio.Pengalaman)
 }
 ```
-
+<div align="center">
 
 # 📊 GitHub Stats:
 
