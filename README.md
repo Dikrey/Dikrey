@@ -110,7 +110,6 @@ func main() {
 ---
 
 ## 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Dikrey&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
   <img src="https://github-profile-trophy.vercel.app/?username=Dikrey&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 
 ---
