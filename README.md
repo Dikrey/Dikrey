@@ -87,6 +87,16 @@ func main() {
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dikrey&theme=radical&hide_border=false)  
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Dikrey&theme=redical)  
 
+
+  <img src="https://github-stats-alpha.vercel.app/api?username=Dikrey&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dikrey&theme=tokyonight" width="100%">
+  
+  <p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dikrey&theme=tokyonight" width="45%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dikrey&theme=tokyonight" width="45%">
+  </p>
+
 ---
 
 ### 🔝 Top Contributed Repo
