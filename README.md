@@ -16,9 +16,8 @@
 <img src="https://komarev.com/ghpvc/?username=Dikrey&style=flat-square&color=blue" alt=""/>
  
 [![Facebokm Badge](https://img.shields.io/badge/-facebook.Muhammad_Raihan-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=/)](https://www.facebook.com/profile.php?id=100049899516284&locale=id_ID) [![Instagram Badge](https://img.shields.io/badge/-instagram.Muhammad_Raihan0307-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/muhammad_raihan0307/)](https://www.instagram.com/muhammad_raihan0307/) 
-<br>
+<br><br>
   <img width="150%" src="https://github-widgetbox.vercel.app/api/profile?username=Dikrey&data=followers,repositories,stars,commits&theme=nautical"/>
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Dikrey&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 </div>
 
 ---
@@ -116,6 +115,8 @@ func main() {
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
 
 ---
 
