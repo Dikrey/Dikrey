@@ -94,6 +94,8 @@ func main() {
   
   <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dikrey&theme=tokyonight" width="45%">
+   
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dikrey&theme=radical)
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dikrey&theme=tokyonight" width="45%">
   </p>
 
