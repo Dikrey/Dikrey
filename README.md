@@ -9,7 +9,7 @@
 </div>
 
 <div id="header" align="center">
- <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+ <img align="center" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/><br>
   <img src="https://komarev.com/ghpvc/?username=Dikrey&style=flat-square&color=blue" alt=""/>
 </div>
