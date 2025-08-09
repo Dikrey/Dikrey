@@ -176,6 +176,12 @@ func main() {
 </p>
 
 ---
+
+<div align="center">
+  <h2>🌐 Weekly Development</h2>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dikrey&theme=tokyonight&hide_border=true" width="100%">
+</div>
+
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
 > @Raihan_official0307
