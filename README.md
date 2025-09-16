@@ -86,14 +86,12 @@ func main() {
 
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=61570975" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=156519759" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=61570975&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @zakirkun" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=61570975&image_size=auto&color_scheme=light" width="771" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=156519759&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Dikrey" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=156519759&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ![](https://github-readme-stats.vercel.app/api?username=Dikrey&theme=radical&show_icons=true&hide_border=false&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dikrey&theme=radical&hide_border=false)  
@@ -106,6 +104,15 @@ func main() {
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dikrey&theme=radical" width="45%">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dikrey&theme=radical" width="45%">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dikrey&theme=radical&utcOffset=8" width="45%">
+
+   <!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=156519759&period=all_times" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=156519759&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Contribution Time Distribution of @Dikrey" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=156519759&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
   </p>
 
 ---
